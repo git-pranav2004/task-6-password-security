@@ -1,1 +1,3 @@
 # task-6-password-security
+
+This task focuses on understanding what makes a password strong and testing various passwords using free online strength checkers. I created multiple passwords with varying complexity and evaluated them on tools like Kaspersky Password Checker and PasswordMeter. The report includes password strength analysis, screenshots, common password attacks (brute force, dictionary, phishing), and best practices. Also included is a Q&A section covering essential interview questions on password security. All relevant files (PDF report, screenshots folder) are included in this repository.
